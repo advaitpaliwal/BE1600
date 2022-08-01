@@ -1,0 +1,22 @@
+Indicator								: Min							Max
+----------------------------------------------------------------------------------------------------
+Heart Disease Death Rate (2007)         : Minnesota              129.8	Mississippi            266.5
+Stroke Death Rate (2007)                : New York                28.2	Arkansas                57.4
+HIV Diagnosis Rate (2009)               : North Dakota             2.3	Florida                 33.0
+CLABSI-SIR (2010)                       : Vermont                  0.3	Maryland                 1.3
+Motor Vehicle Death Rate (2009)         : District of Columbia     4.8	Wyoming                 24.6
+Opioid Analgesics Deaths (2007)         : District of Columbia    11.0	Florida               1335.0
+Teen Birth Rate (2009)                  : New Hampshire           16.4	Mississippi             64.2
+Diagnosed High Cholesterol (2009)       : Tennessee               32.9	South Carolina          41.8
+Diagnosed Hypertension (2009)           : Minnesota               22.6	Alabama                 38.3
+Medicated Hypertension (2009)           : Alaska                  66.9	Minnesota               86.7
+Adult Smoking (2010)                    : Utah                     9.1	West Virginia           26.8
+Youth Smoking (2009)                    : Utah                     8.5	Kentucky                26.1
+Adult Obesity (2010)                    : Colorado                21.4	Mississippi             34.5
+Youth Obesity (2009)                    : Utah                     6.4	Mississippi             18.3
+Adult Seat Belt Use (2009)              : Wyoming                 67.6	Michigan                98.0
+Youth Seat Belt Use (2009)              : Arkansas                81.3	Texas                   94.3
+Adult Binge Drinking (2010)             : Tennessee                6.6	Wisconsin               21.6
+Youth Binge Drinking (2009)             : Utah                    11.5	North Dakota            30.7
+Colorectal Cancer Screening (2010)      : West Virginia           54.4	Connecticut             75.7
+Without Health Care Coverage (2010)     : Massachusetts            4.3	Texas                   23.1
